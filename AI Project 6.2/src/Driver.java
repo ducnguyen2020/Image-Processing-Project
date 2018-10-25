@@ -1,4 +1,4 @@
-//Name: Linh Lam
+//Name: Duc Nguyen
 //Project 6 - COMPUTER VISION
 //Professor Scott Thede
 //May 9th, 2018
